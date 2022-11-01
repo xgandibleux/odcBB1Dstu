@@ -8,7 +8,6 @@ include("parserBB1D.jl")
 function main(fname::String)
 
 	data :: Vector{instanceBB1D} = loadBB1D("../dat/" * fname)
-	@show data
 
 	return nothing
 end
