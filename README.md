@@ -4,4 +4,6 @@
 Material for students.
 
 - a collection of 4 numerical instances from the OR-library
+- a datastructure
 - a parser
+- a main
