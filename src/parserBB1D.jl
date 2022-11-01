@@ -16,7 +16,7 @@ function loadBB1D(nomFichier::String)
 
     f = open(nomFichier,"r")
 
-	# nombre d'instances dans le fichier
+    # nombre d'instances dans le fichier
     P = parse(Int64, readline(f))
 	# Reservation mémoire pour memoriser toutes les instances
 	allInstances = Vector{instanceBB1D}(undef,P)
