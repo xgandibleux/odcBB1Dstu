@@ -3,5 +3,5 @@
 
 Material for students.
 
-- a collection of numerical instances
+- a collection of 4 numerical instances from the OR-library
 - a parser
